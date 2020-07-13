@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jbaca22/jest-another-rpg",
   "devDependencies": {
     "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.1"
   }
 }
